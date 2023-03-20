@@ -1,0 +1,105 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "My name is Deon Curry and I am a veteran of the US Navy.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "BuffAid",
+      "startDate": "2023",
+      "description": "A website like Onlyfans but without adult content.",
+      "images": [
+        "images/portfolio/animal-shelter/Pic1.jpg",
+        "images/portfolio/animal-shelter/pic2.jpg",
+        "images/portfolio/animal-shelter/pic3.jpg"
+      ],
+      "url": "https://github.com/Curryfrom3/BuffAid.git",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+          
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"         
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookies",
+      "startDate": "2023",
+      "description": "Simple project that displays cookie sales for cities that have the Salmon Cookie Business",
+      "images": [
+       
+      ],
+      "url": "https://github.com/Curryfrom3/cookie-stand.git",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+          
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"         
+        }
+      ]
+    },
+    {
+      "title": "Gallery of Horns",
+      "startDate": "2023",
+      "description": "A site where you can favorite pictures of animals with horns. You can also filter the gallery based on horn size.",
+      "images": [
+        ""
+      ],
+      "url": "https://github.com/Curryfrom3/gallery-of-horns.git",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Full Stack Developer",
+      "title": "Student",
+      "years": "12.2022 - present",
+      "mainTech": [
+        "JavaScript"
+      ],
+      "technologies": [
+        
+        "JavaScript",
+        "Bootstrap",
+        "HTML 5",
+        "React",
+        "CSS 3"
+      ]
+    }
+  ]
+}
